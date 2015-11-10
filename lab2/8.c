@@ -1,20 +1,25 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
+
 
 int main() {
 
-int a, b, c;
-float suma, iloczyn, nw, nm;
+int a, b, c, suma, iloczyn;
+  printf("Wprowadz 3 liczby: ");
+  scanf("%d %d %d", &a, &b, &c);
 
-  printf("Podaj pierwsza liczbe: ");
-  scanf("%d", &a);
+   suma = a + b + c;
+   iloczyn = a * b * c;
 
-  printf("Podaj druga liczbe: ");
-  scanf("%d", &b);
+  printf("Suma wynosi:%d\n" "Iloczyn wynosi: %d\n", suma, iloczyn);
 
-  printf("Podaj trzecia liczbe: ");
-  scanf("%d", &c);
+   if (a<b && a<c)
+	printf("Najmniejsza liczba to: %d\n", a);
 
-printf
+   else if (b<a && b<c)
+	printf("Najmniejsza liczba to: %d\n", b);
 
+   else
+	printf("najmniejsza liczba to: %d\n", c);
 }
