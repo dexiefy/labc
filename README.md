@@ -9,4 +9,7 @@
 
 ## Petle
   * _Zadania:_
-    + 
+    + [x]  [0] (https://github.com/dexiefy/labc/blob/master/lab2/petle/0.c)
+    + [x]  [1] (https://github.com/dexiefy/labc/blob/master/lab2/petle/1.c)
+    + [ ]  [2] (https://github.com/dexiefy/labc/blob/master/lab2/petle/2.c), [2pn] (https://github.com/dexiefy/labc/blob/master/lab2/petle/2pn.c)
+    + [ ]  [3] (https://github.com/dexiefy/labc/blob/master/lab2/petle/3.c)
