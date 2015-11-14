@@ -15,7 +15,7 @@ int main() {
 	printf("podaj liczbe dodatnia!\n");
 	exit(1);
 }
-   if (a<0) {
+   else if (a<0) {
         printf("Liczba odwrotna do liczby %.0f to: -%.0f\n", a, o);
 }
    else {
