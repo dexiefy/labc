@@ -14,7 +14,7 @@ int a, b, c, suma, iloczyn;
 
   printf("Suma wynosi:%d\n" "Iloczyn wynosi: %d\n", suma, iloczyn);
 
-   if (a<b && a<c)
+   if (a<b && a<c && b<c)
 	printf("Najmniejsza liczba to: %d\n", a);
 
    else if (b<a && b<c)
