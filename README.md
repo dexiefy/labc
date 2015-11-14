@@ -7,6 +7,6 @@
     + [ ] [7] (https://github.com/dexiefy/labc/blob/master/lab2/7.c) WIP
     + [ ] [8] (https://github.com/dexiefy/labc/blob/master/lab2/8.c) WIP
 
-## Podstawowe typy danych
+## Petle
   * _Zadania:_
     + 
