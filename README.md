@@ -9,4 +9,4 @@
 
 ## Podstawowe typy danych
   * _Zadania:_
-   | + 
+    + 
