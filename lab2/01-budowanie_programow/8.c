@@ -1,3 +1,7 @@
+/* 8. Napisz program, który prosi użytkownika o wprowadzenie trzech liczb z klawiatury, 
+a następnie wypisze sumę, iloczyn, najmniejszą i największą z wprowadzonych liczb. */
+
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
