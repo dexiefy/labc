@@ -5,13 +5,12 @@
 #include <stdlib.h>
 
 int main(){
-   int a,b,c,d,e,f;
-   int tablica[6] = {a, b, c, d, e, f};
+      int tablica[6];
 
 	printf ("Podaj 6 liczb calkowitych: ");
-	scanf ("%d" "%d" "%d" "%d" "%d" "%d", &a, &b, &c, &d, &e, &f);
-	printf ("%d | %d\n%d | %d\n%d | %d\n", a,b,c,d,e,f);
+	scanf ("%d" "%d" "%d" "%d" "%d" "%d", &tablica[1], &tablica[2], &tablica[3], &tablica[4], &tablica[5], &tablica[6]);
+	printf ("%d | %d\n%d | %d\n%d | %d\n", tablica[1], tablica[2], tablica[3], tablica[4], tablica[5], tablica[6]);
 
-printf("\n%d %d %d %d %d %d\n", a,b,c,d,e,f);
-printf ("\n%d %d %d %d %d %d\n", f,e,d,c,b,a);
+printf("\n%d %d %d %d %d %d\n", tablica[1], tablica[2], tablica[3], tablica[4], tablica[5], tablica[6]);
+printf ("\n%d %d %d %d %d %d\n", tablica[6], tablica[5], tablica[4], tablica[3], tablica [2], tablica[1]);
 }
