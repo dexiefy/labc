@@ -2,24 +2,31 @@
 #include <math.h>
 #include <stdlib.h>
 
+int main(){
+   int a, b, c, max, min, suma, iloczyn;
 
-int main() {
 
-int a, b, c, suma, iloczyn;
-  printf("Wprowadz 3 liczby: ");
-  scanf("%d %d %d", &a, &b, &c);
+   printf ( "Wprowadz 3 liczby: ");
+   scanf ( "%d %d %d", &a, &b, &c);
 
+   min = a;
+   max = a;
    suma = a + b + c;
    iloczyn = a * b * c;
 
-  printf("Suma wynosi:%d\n" "Iloczyn wynosi: %d\n", suma, iloczyn);
 
-   if (a<b && a<c && b<c)
-	printf("Najmniejsza liczba to: %d\n", a);
+	if ( b < a){
+	min = b;
+}
+	else max = b;
 
-   else if (b<a && b<c)
-	printf("Najmniejsza liczba to: %d\n", b);
+	if (c > max){
+        max = c; 
+}
+	if (c < min){
+        min = c;
+}
 
-   else
-	printf("najmniejsza liczba to: %d\n", c);
+
+   printf( " Suma: %d \n Iloczyn: %d\n Najmniejsza liczba to: %d\n Najwieksza liczba to: %d\n", suma, iloczyn, min, max);
 }
