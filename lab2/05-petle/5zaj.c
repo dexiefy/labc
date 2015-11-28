@@ -5,17 +5,18 @@
 #include <stdlib.h>
 
 int main(){
-  int n = 6;
+  int n;
   int t[n];
   size_t i;
 
-printf ("Podaj %d liczb calkowitych: \n", n);
+printf ("Podaj liczbe elementow: \n");
+    scanf("%d\n", &n);
 
-
-
+printf("Podaj %d liczb calkowitych: \n", n);
  for (i = 1; i <=n; i++) {
    scanf ("%d", &t[n]);
    printf("%d ", t[n]);
 }
+
 
 }
