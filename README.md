@@ -18,11 +18,14 @@
     + [ ]  [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c) WIP
     + [ ]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c) WIP
  
+
 ## Funkcje
-    + [x] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/1.c)
-    + [x] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/2.c)
-    + [x] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
-    + [ ] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) Template
+  * _Zadania:_
+    + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/1.c)
+    + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/2.c)
+    + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
+    + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) Template
 
 ## Elementarz
-    + [x] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/1.c)
+  * _Zadania:_
+    + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/1.c)
