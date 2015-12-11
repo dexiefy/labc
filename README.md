@@ -29,3 +29,4 @@
 ## Elementarz 2
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/1.c)
+    + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/2.c)
