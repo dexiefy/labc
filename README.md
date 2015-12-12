@@ -25,6 +25,8 @@
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/2.c)
     + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
     + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) Template
+    + 
+    + [ ] [perfect] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
 ## Elementarz 2
   * _Zadania:_
