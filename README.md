@@ -36,7 +36,7 @@
 
 ## [Elementarz 3] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
   * _Zadania:_
-    + [ ] [1] 
+    + [ ] [1] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/1.c)
     + 
  
 ## [Rekurencja] (https://github.com/dexiefy/labc/tree/master/lab2/11-Rekurencja)
