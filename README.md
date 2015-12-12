@@ -1,5 +1,5 @@
 # LABORATORIA C
-## Budowanie programow
+## [Budowanie programow] (https://github.com/dexiefy/labc/tree/master/lab2/01-budowanie_programow)
   * _Zadania:_
     + [x] [5a] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/5.c) 
     + [x] [5b] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/5b.c)
@@ -8,7 +8,7 @@
     + [x] [8] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/8.c)
     + [x] [9] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/9.c)
 
-## Petle
+## [Petle] (https://github.com/dexiefy/labc/tree/master/lab2/05-petle)
   * _Zadania:_
     + [x]  [0] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/0.c)
     + [x]  [1] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/1.c)
@@ -19,7 +19,7 @@
     + [ ]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c) WIP
  
 
-## Funkcje
+## [Funkcje] (https://github.com/dexiefy/labc/tree/master/lab2/07-funkcje)
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/2.c)
@@ -28,7 +28,18 @@
     + 
     + [ ] [perfect] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
-## Elementarz 2
+## [Elementarz 2] (https://github.com/dexiefy/labc/tree/master/lab2/08-Elementarz2)
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/2.c)
+
+
+## [Elementarz 3] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
+  * _Zadania:_
+    + [ ] [1] 
+    + 
+ 
+## [Rekurencja] (https://github.com/dexiefy/labc/tree/master/lab2/11-Rekurencja)
+* _Zadania:_
+    + [ ] [1]
+
