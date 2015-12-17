@@ -16,7 +16,7 @@
     + [x]  [3] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/3.c)
     + [x]  [4] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/4.c)
     + [ ]  [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c) WIP
-    + [ ]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c) WIP
+    + [x]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c)
  
 
 ## [Funkcje] (https://github.com/dexiefy/labc/tree/master/lab2/07-funkcje)
