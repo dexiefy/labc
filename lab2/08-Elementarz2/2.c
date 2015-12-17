@@ -1,5 +1,7 @@
-#include <stdio.h>
+//2. Napisz program, wypisujący w postaci tabelki pierwiastki z pierwszych 20 liczb naturalnych.
 
+
+#include <stdio.h>
 
 int main() {
 
