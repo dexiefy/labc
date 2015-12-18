@@ -44,4 +44,4 @@
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/2.c)
     + [ ] [3]
-    + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4.c) 
+    + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c) 
