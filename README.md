@@ -8,9 +8,13 @@
     + [x] [8] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/8.c)
     + [x] [9] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/9.c)
 
-## [Elementarz 1] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz1)
+## [Elementarz 1] (https://github.com/dexiefy/labc/tree/master/lab2/04-Elementarz1)
   * _Zadania:_
-    + [ ] [1] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/1.c)
+    + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/1.c)
+    + [ ] [2] ()
+    + [ ] [3] ()
+    + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/4.c)
+    + [ ] [5] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/5.c)
 
 ## [Petle] (https://github.com/dexiefy/labc/tree/master/lab2/05-petle)
   * _Zadania:_
