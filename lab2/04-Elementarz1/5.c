@@ -14,24 +14,24 @@ i nowego wiersza */
 
 int main (){
 
-int c;
-int nb, nt, nl;
+  int c;
+  int nb, nt, nl;
 
-nb = 0;
-nt = 0;
-nl = 0;
+  nb = 0;
+  nt = 0;
+  nl = 0;
 
-while ((c=getchar()) != EOF){
-if (c == ' ')
-++nb;
-else if (c == '\n')
-++nl;
-else if (c == '\t');
-++nt;
-}
+  while ((c=getchar()) != EOF){
+    if (c == ' ')
+    ++nb;
+    else if (c == '\n')
+    ++nl;
+    else if (c == '\t');
+    ++nt;
+  }
 
-printf("%d %d %d\n", nb, nt, nl);
+  printf("%d %d %d\n", nb, nt, nl);
 
 
-return 0;
+  return 0;
 }
