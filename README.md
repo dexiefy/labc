@@ -16,7 +16,7 @@
     + [x]  [3] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/3.c)
     + [x]  [4] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/4.c)
     + [ ]  [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c) WIP
-    + [ ]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c) WIP
+    + [x]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c)
  
 
 ## [Funkcje] (https://github.com/dexiefy/labc/tree/master/lab2/07-funkcje)
@@ -36,12 +36,12 @@
 
 ## [Elementarz 3] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
   * _Zadania:_
-    + [ ] [1] 
-    + 
+    + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/1.c)
+    + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/2.c)
  
 ## [Rekurencja] (https://github.com/dexiefy/labc/tree/master/lab2/11-Rekurencja)
 * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/2.c)
     + [ ] [3]
-    + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4.c) 
+    + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c) 
