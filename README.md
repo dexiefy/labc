@@ -9,6 +9,7 @@
     + [x] [9] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/9.c)
 
 ## [Elementarz 1] (https://github.com/dexiefy/labc/tree/master/lab2/04-Elementarz1)
+  * _Makefile done_
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/1.c)
     + [ ] [2] ()
