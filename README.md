@@ -15,7 +15,7 @@
     + [ ] [2] ()
     + [ ] [3] ()
     + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/4.c)
-    + [ ] [5] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/5.c)
+    + [x] [5] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/5.c)
 
 ## [Petle] (https://github.com/dexiefy/labc/tree/master/lab2/05-petle)
   * _Zadania:_
