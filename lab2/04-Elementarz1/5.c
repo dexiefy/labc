@@ -23,10 +23,10 @@ nl = 0;
 
 while ((c=getchar()) != EOF){
 if (c == ' ')
-else if (c == '\n')
-else if (c == '\t')
 ++nb;
+else if (c == '\n')
 ++nl;
+else if (c == '\t');
 ++nt;
 }
 
