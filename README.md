@@ -46,6 +46,7 @@
     + [ ] [3]
     + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c) 
 
-## [Struktury (wraz z Makefile)] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
+## [Struktury ] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
+* _Makefile done_
 * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/15-Struktury/1.c)
