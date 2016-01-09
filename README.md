@@ -34,7 +34,7 @@
     + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
     + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) _Template only_
     + 
-    + [ ] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
+    + [x] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
 ## [Elementarz 2] (https://github.com/dexiefy/labc/tree/master/lab2/08-Elementarz2)
   * _Zadania:_
