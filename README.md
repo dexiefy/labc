@@ -39,7 +39,7 @@
     + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) _Template only_
     + [ ] [7] 
     + [ ] [8] 
-    + 
+     
     + [x] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
 ## [Elementarz 2] (https://github.com/dexiefy/labc/tree/master/lab2/08-Elementarz2)
@@ -67,8 +67,11 @@
     + [ ] [6] 
     + [ ] [7] 
 
-## [Struktury ] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
+## [Struktury] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/15-Struktury/1.c)
-    + [ ] [7] 
-    + [ ] [7] 
+    + [ ] [2] 
+    + [ ] [3] 
+    + [ ] [4] 
+
+## [Stos] (https://github.com/dexiefy/labc/tree/master/lab2/16-Stos) 
