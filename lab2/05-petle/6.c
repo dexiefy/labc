@@ -4,24 +4,25 @@
 #include <stdio.h>
 
 
-int main() {
+int main()
+{
 
-  float tablica[5];
+    float tablica[5];
 
-   printf("Podaj 6 liczb rzeczywistych: \n");
-   scanf("%f %f %f %f %f %f", &tablica[0], &tablica[1], &tablica[2], &tablica[3], &tablica[4], &tablica[5]);
+    printf("Podaj 6 liczb rzeczywistych: \n");
+    scanf("%f %f %f %f %f %f", &tablica[0], &tablica[1], &tablica[2],
+	  &tablica[3], &tablica[4], &tablica[5]);
 
     float min = tablica[0];
     float max = tablica[0];
 
     for (int i = 0; i < 6; i++) {
-       float x = tablica[i];
-    if (x > max) {
-       max = x;
+	float x = tablica[i];
+	if (x > max) {
+	    max = x;
+	} else if (x < min) {
+	    min = x;
+	}
     }
-    else if (x < min) {
-       min = x;
-    }
-  }
-  printf("min = %f\nmax = %f\n", min, max);
+    printf("min = %f\nmax = %f\n", min, max);
 }

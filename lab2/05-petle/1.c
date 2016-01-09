@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
 
     int y = 1;
 
     while (y <= 2010) {
-        printf("%d\n", y);
-       y = y * 2;
-     }
+	printf("%d\n", y);
+	y = y * 2;
+    }
 }
