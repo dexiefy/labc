@@ -5,7 +5,7 @@
   tak aby powstał działający program.
 
  zlicz znaki odstępu, tabulacji
-{
+{git a
 }
 #include &lt;stdio.h>
 i nowego wiersza */
