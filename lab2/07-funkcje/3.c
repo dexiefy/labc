@@ -12,21 +12,21 @@
 #include <stdio.h>
 
 int is_perfect (size_t n){
-int suma_podzielnikow = 0;
+  int suma_podzielnikow = 0;
 
 
-for (size_t i = 1; i < n; i++) {
- if (n % i == 0) {
-  suma_podzielnikow += i;
- }
-}
-return suma_podzielnikow == n;
+  for (size_t i = 1; i < n; i++) {
+    if (n % i == 0) {
+      suma_podzielnikow += i;
+    }
+  }
+  return suma_podzielnikow == n;
 
 
 }
 
 int main () {
-size_t max = 10000;
+  size_t max = 10000;
   //size_t max = 100000000;
 
   for (size_t i = 0; i < max; i++) {

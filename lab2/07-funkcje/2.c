@@ -20,9 +20,9 @@ int factorial(int n){
   return fact;
 }
 int main(){
-for (int i = 0; i <= 10; i++) {
-  printf("factorial(%d) = %d\n", i, factorial(i));
-}
+  for (int i = 0; i <= 10; i++) {
+    printf("factorial(%d) = %d\n", i, factorial(i));
+  }
 
 
 }

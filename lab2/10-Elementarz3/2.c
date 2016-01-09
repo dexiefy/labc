@@ -6,10 +6,10 @@
 
 int main(){
 
-int i;
+  int i;
 
   printf("Liczba  | Pierwiastek\n");
 
   for (i=1; i<=20; i++)
-    printf("%d      | %f         \n", i, sqrt(i));
+  printf("%d      | %f         \n", i, sqrt(i));
 }

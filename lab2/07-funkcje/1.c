@@ -22,8 +22,8 @@ int main() {
   double a[] = { 3.0, 5.0, 1.0};
   double b[] = { 4.0, 5.0, 6.0};
 
-for (int i = 0; i < 3; i++) {
-  printf("a = %f b = %f przeciwprostokatna = %.2f\n",
-   a[i], b[i],   przeciwprostokatna(a[i], b[i]));
-}
+  for (int i = 0; i < 3; i++) {
+    printf("a = %f b = %f przeciwprostokatna = %.2f\n",
+    a[i], b[i],   przeciwprostokatna(a[i], b[i]));
+  }
 }

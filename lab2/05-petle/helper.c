@@ -9,8 +9,8 @@ void wczytaj_liczbe_calkowita (int *n_p) {
   scanf("%d", n_p);
 
   if (*n_p <= 0) {
-      printf("Liczba musi byc wieksza od 0! \n");
-      exit(1);
+    printf("Liczba musi byc wieksza od 0! \n");
+    exit(1);
   }
 }
 
