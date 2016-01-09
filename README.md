@@ -9,7 +9,6 @@
     + [x] [9] (https://github.com/dexiefy/labc/blob/master/lab2/01-budowanie_programow/9.c)
 
 ## [Elementarz 1] (https://github.com/dexiefy/labc/tree/master/lab2/04-Elementarz1)
-  * _Makefile done_
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/1.c)
     + [ ] [2] ()
@@ -35,7 +34,7 @@
     + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
     + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) Template only
     + 
-    + [ ] [perfect] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
+    + [ ] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
 ## [Elementarz 2] (https://github.com/dexiefy/labc/tree/master/lab2/08-Elementarz2)
   * _Zadania:_
@@ -49,13 +48,12 @@
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/2.c)
  
 ## [Rekurencja] (https://github.com/dexiefy/labc/tree/master/lab2/11-Rekurencja)
-* _Zadania:_
+  * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/2.c)
     + [ ] [3] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/3.c)
     + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c) 
 
 ## [Struktury ] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
-* _Makefile done_
-* _Zadania:_
+  * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/15-Struktury/1.c)
