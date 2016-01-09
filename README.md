@@ -23,7 +23,7 @@
     + [x]  [2] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2.c), [2pn] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2pn.c)
     + [x]  [3] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/3.c)
     + [x]  [4] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/4.c)
-    + [ ]  [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c) WIP
+    + [ ]  [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c) _WiP_
     + [x]  [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c)
  
 
@@ -32,7 +32,7 @@
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/2.c)
     + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/3.c)
-    + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) Template only
+    + [ ] [4] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/4.c) _Template only_
     + 
     + [ ] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
@@ -52,7 +52,7 @@
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/2.c)
     + [ ] [3] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/3.c)
-    + [x] [4 poprzez modulo] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c) 
+    + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c)_poprzez modulo _
 
 ## [Struktury ] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
   * _Zadania:_
