@@ -11,7 +11,7 @@
 ## [Elementarz 1] (https://github.com/dexiefy/labc/tree/master/lab2/04-Elementarz1)
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/1.c)
-    + [ ] [2] ()
+    + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/2.c)
     + [ ] [3] ()
     + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/4.c)
     + [x] [5] (https://github.com/dexiefy/labc/blob/master/lab2/04-Elementarz1/5.c)
