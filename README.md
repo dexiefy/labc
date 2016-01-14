@@ -47,7 +47,7 @@
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/2.c)
     + [ ] [3] 
-    + [ ] [4] 
+    + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/4.c)
 
 
 ## [Elementarz 3] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
