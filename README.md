@@ -25,7 +25,7 @@
     + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/4.c)
     + [x] [5] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c)
     + [x] [6] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/6.c)
-    + [ ] [7] 
+    + [x] [7] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/7.c)
     + [ ] [8] 
     + [ ] [9] 
     + [ ] [10] 
