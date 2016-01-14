@@ -1,8 +1,1 @@
-//4. Korzystając z twierdzenia Euklidesa, napisać program obliczający
-//rekurencyjnie największy wspólny dzielnik z liczb podanych na wejściu.
-
-
-int main() {
-
-
-}
+//3. Napisać funkcję rekurencyjną odwracającą kolejność liter w napisie podanym na wejściu.
