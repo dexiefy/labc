@@ -1,15 +1,12 @@
-//4. Napisać program obliczający silnię z podanej, niezbyt dużej,
-// liczby naturalnej.
+//4. Napisać program obliczający silnię z podanej, niezbyt dużej, liczby naturalnej.
 
-
-#include <math.h>
 #include <stdio.h>
 
-int main() {
+int main()
+{
+  int c, n, fact = 1;
 
-  int c, n, fact=1;
-
-  printf("Podaj liczbe: ");
+  printf("Podaj liczbe do obliczenia silni\n");
   scanf("%d", &n);
 
   for (c = 1; c <= n; c++)
