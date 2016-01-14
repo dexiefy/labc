@@ -62,7 +62,7 @@
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/2.c)
     + [ ] [3] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/3.c)
-    + [x] [4] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4modulo.c)_poprzez modulo _
+    + [x] [4 modulo]  (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/4i.c)
     + [ ] [5] 
     + [ ] [6] 
     + [ ] [7] 
