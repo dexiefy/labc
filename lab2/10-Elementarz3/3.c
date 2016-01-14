@@ -1,26 +1,24 @@
-/*3. Trójkąt pitagorejski to trójkąt prostokątny, w którym długość każdego boku jest liczbą całkowitą.
-Napisz program wypisujący wszystkie trójkąty pitagorejskie, których obwód nie przekracza 1000.*/
+//3. Trójkąt pitagorejski to trójkąt prostokątny, w którym długość każdego boku
+//jest liczbą całkowitą.
+//Napisz program wypisujący wszystkie trójkąty pitagorejskie,
+//których obwód nie przekracza 1000.
+
 #include <stdio.h>
 
 int main() {
+  int a, b, c;
 
-  int a = 3;
-  int b = 4;
-  int c = 5;
-  int obwod = a  + b + c;
 
-  printf("Trojkaty pitagorejskie o obwodzie mniejszym od 1000 to:\n");
-
-  for (int i=1; i < obwod; i++){
-    if (a^2+b^2==c^2){
-      printf("Trojkat o bokach %d, %d, %d oraz obwodzie %d\n", a, b, c, obwod);
-
-      /*while (a+b+c<1000){
-      obwod= a+b+c;
-      a++;
-      b++;
-      c++;
+  for (a = 1; a <= 500; a++) {
+    for (b = 1; b <= 500; b++) {
+      for (c = 1; c <= 500; c++) {
+        if (a * a + b * b == c * c) {
+          if (a + b + c <= 1000 && a<b && b<c) {
+            int obwod = a + b + c;
+            printf("A=%d \t B=%d \t C=%d \t Obwod=%d \n", a, b, c, obwod);
+          }
+        }
+      }
     }
-  }*/
-
+  }
 }
