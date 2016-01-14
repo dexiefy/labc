@@ -54,7 +54,7 @@
   * _Zadania:_
     + [x] [1] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/1.c)
     + [x] [2] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/2.c)
-    + [ ] [3] 
+    + [x] [3] (https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/3.c)
     + [ ] [4] 
  
 ## [Rekurencja] (https://github.com/dexiefy/labc/tree/master/lab2/11-Rekurencja)
