@@ -1,16 +1,25 @@
-/*2. W miejsce kropek „...” wpisz kod, tak aby powstały działające programy.
-
-Program ten wypisuje liczby z tablicy tabela[]
-w odwrotnej kolejności: 12, 6, 4, 2, 1 */
-
+//2. W miejsce kropek „...” wpisz kod, tak aby powstały działające programy.
+//
+///* Program ten wypisuje liczby z tablicy tabela[]
+//   w odwrotnej kolejności: 12, 6, 4, 2, 1 */
+//#include <stdio.h>
+//int main() {
+//   int tabela[] = {1, 2, 4, 6, 12};
+//   for (...)
+//      ...
+//   return 0;
+//}
 
 #include <stdio.h>
-int main() {
+#define size 5
 
-  int i, tabela;
 
-  int tabela[i] = {1, 2, 4, 6, 12};
-  for (i=5; i>1; i--)
-  printf("$d \n", i);
-  return 0;
+int main()
+{
+  int tab[size] = {1, 2, 4, 6, 12};
+  int i;
+  
+  for (i=size-1; i>=0; i--) {
+    printf ("Element numer %d = %d\n", i, tab[i]);
+  }
 }
