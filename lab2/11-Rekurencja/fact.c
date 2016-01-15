@@ -7,7 +7,15 @@ int  main() {
   printf("Podaj liczbe ktorej silnie chcesz obliczyc!\n");
   scanf("%d", &i);
   
-  printf("Silnia liczby %d to %d\n", i, factorial(i));
+  if (i < 0){
+    printf("Podaj liczbe nieujemna!.\n");
+    return 0;
+  }
+  
+  else
+  {
+    printf("Silnia liczby %d to %d\n", i, factorial(i));
+  }
 }
 
 int factorial(int i) {
