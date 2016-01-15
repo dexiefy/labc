@@ -66,6 +66,7 @@
     + [ ] [5] 
     + [ ] [6] 
     + [ ] [7] 
+    + [x] [Program oblliczajacy silnie] (https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/fact.c)
 
 ## [Struktury] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
   * _Zadania:_
