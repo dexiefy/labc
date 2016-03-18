@@ -76,3 +76,6 @@
     + [ ] [4] 
 
 ## [Stos] (https://github.com/dexiefy/labc/tree/master/lab2/16-Stos) 
+
+
+[GRAF](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/graf.c)
