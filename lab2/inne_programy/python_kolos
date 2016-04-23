@@ -1,0 +1,148 @@
+# 6)
+# Dany jest slownik:
+miesiace = {'luty': 28, 'maj': 31, 'lipiec': 31,
+            'wrzesien': 55, 'listopad': 20}
+# jakie sa wartosci nastepujacych wyrazen:
+# a)
+# ----------------
+[k for k in miesiace]
+
+['luty', 'wrzesien', 'maj', 'listopad']
+#----------------
+" and ".join(["%s in %s" % (v, k) for k, v in miesiace.items()])
+
+'29 in luty and 55 in wrzesien and 31 in maj and 20 in listopad'
+
+#-------------------
+reduce(lambda x, y: x+y, miesiace.values())
+
+
+165
+
+# ----------------
+# b)
+#   Napisz instrukcje, ktora:
+#     - wypisze liczby wystepujace w slowniku miesiace
+print miesiace.items()
+#     - zmieni liczbe dni lutego na 29
+miesiace['luty'] = 29
+#     - usunie dane lipca lacznie z lipcem
+del miesiace['lipiec']
+#     - przypisze miesiacom kolejne liczby calkowice zaczynajac od 1
+
+
+
+
+
+
+# (4)
+# zdefiniowano listw
+licz = [1, [2, 3], (4, 5)]
+# jakie sa wartosci nastepujacych wyrazen:
+# -----------------
+print licz[2]
+print licz[:1]
+print licz[-1:2]
+print licz[-2:]
+print licz[0:3:2]
+
+
+>>> print licz[2]
+(4, 5)
+>>> print licz[:1]
+[1]
+>>> print licz[-1:2]
+[]
+>>> print licz[-2:]
+[[2, 3], (4, 5)]
+>>> print licz[0:3:2]
+[1, (4, 5)]
+>>>
+
+
+# (3)
+# Zdefiniowano funkcje:
+
+
+def f(x):
+    a = x
+    return a+b
+
+
+def g(y):
+    b = f(y)
+    return a+b
+
+# Jaki jest wynik wyrazenia:   g(f(a))
+# jezeli wartosci poczatkowe:
+a = b = 3
+print g(f(a))
+12
+f(a)= 3+3 = 6
+g(6)//
+b = f(6)= 3+6= 9
+a +b = 3+9 =12
+
+a = b = [0]
+print g(f(a))
+f(a)= [0]+[0]= [0, 0]
+g(a)= [0, 0]
+[0, 0, 0, 0]
+
+a = b = [1, 2]
+print g(f(a))
+[1, 2, 1, 2, 1, 2, 1, 2]
+
+
+
+# (6)
+# a) Jakie wartosci zostana wypisane na ekranie
+#    po uruchomieniu ponizszego skryptu:
+# -------------------------
+
+
+class B1:
+    i = 3
+
+    def __init__(self):
+        self.a = 4
+
+    def f(self):
+        return self.a
+
+    def getI(self):
+        return self.__class__.i
+
+
+class B2:
+    i = 5
+
+    def __init__(self):
+        self.a = 6
+
+    def f(self):
+        return self.a
+
+    def getI(self):
+        return self.__class__.i
+
+
+class C(B1, B2):
+    def __init__(self):
+        B1.__init__(self)
+        B2.__init__(self)
+
+    def g(self):
+        return self.f()
+
+    def h(self):
+        return self.getI()
+
+c = C()
+print 'a = ', c.a, ' i = ', c.__class__.i
+print 'c.g() = ', c.g(), 'c.h() = ', c.h()
+
+
+# b) Jakie wartosci zostana wypisane na ekranie jezeli
+#    w definicji klasy C zmienimy pierwsze linie na nastepujace:
+#    class C(B2, B1)
