@@ -40,7 +40,7 @@
     + [ ] [7] 
     + [ ] [8] 
      
-    + [x] [Program obliczajacy liczby doskonale] (https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
+    + [x] [Program obliczajacy liczby doskonale](https://github.com/dexiefy/labc/blob/master/lab2/07-funkcje/perf3a.c)
 
 ## [Elementarz 2](https://github.com/dexiefy/labc/tree/master/lab2/08-Elementarz2)
   * _Zadania:_
@@ -50,7 +50,7 @@
     + [x] [4](https://github.com/dexiefy/labc/blob/master/lab2/08-Elementarz2/4.c)
 
 
-## [Elementarz 3] (https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
+## [Elementarz 3](https://github.com/dexiefy/labc/tree/master/lab2/10-Elementarz3)
   * _Zadania:_
     + [x] [1](https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/1.c)
     + [x] [2](https://github.com/dexiefy/labc/blob/master/lab2/10-Elementarz3/2.c)
@@ -68,7 +68,7 @@
     + [ ] [7] 
     + [x] [Program oblliczajacy silnie](https://github.com/dexiefy/labc/blob/master/lab2/11-Rekurencja/fact.c)
 
-## [Struktury] (https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
+## [Struktury](https://github.com/dexiefy/labc/tree/master/lab2/15-Struktury) 
   * _Zadania:_
     + [x] [1](https://github.com/dexiefy/labc/blob/master/lab2/15-Struktury/1.c)
     + [ ] [2] 
