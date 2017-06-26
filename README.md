@@ -20,7 +20,7 @@
   * _Zadania:_
     + [x] [0](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/0.c)
     + [x] [1](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/1.c)
-    + [x] [2](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2.c), [2pn] (https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2pn.c)
+    + [x] [2](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2.c), [2pn](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/2pn.c)
     + [x] [3](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/3.c)
     + [x] [4](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/4.c)
     + [x] [5](https://github.com/dexiefy/labc/blob/master/lab2/05-petle/5.c)
