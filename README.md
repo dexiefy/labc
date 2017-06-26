@@ -82,7 +82,8 @@
 + [Graf v2](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/grafv2.c)
 + [u2 32/64 bity](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/3264u2.c)
 + [ieee754](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/ieee754.c)
-//note: ieee754 wymaga powiekszenia tablic, przy fuzych liczbach wychodza bzdury
++ //note: ieee754 wymaga powiekszenia tablic, przy fuzych liczbach wychodza bzdury
++ u2/ieee754 wymagaja pliku tekstowego liczby.txt
 
 ## Python
 + [Kolorowanie Grafów SL](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/kolorowanieSL.py)
