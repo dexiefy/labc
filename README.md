@@ -78,8 +78,8 @@
 
 ## Inne Programy w C
 
-*[Graf](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/graf.c)
-*[Graf v2](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/grafv2.c)
++ [Graf](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/graf.c)
++ [Graf v2](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/grafv2.c)
 
 ## Python
-*[Kolorowanie Grafów SL](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/kolorowanieSL.py)
++ [Kolorowanie Grafów SL](https://github.com/dexiefy/labc/blob/master/lab2/inne_programy/kolorowanieSL.py)
